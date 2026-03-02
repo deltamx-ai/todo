@@ -90,6 +90,6 @@ jobs:
             | Linux | `.deb` or `.AppImage` |
 
             See attached assets below.
-          releaseDraft: true
+          releaseDraft: false
           prerelease: false
           args: --verbose
